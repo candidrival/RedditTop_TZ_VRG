@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Reddit Top</string>
+    <string name="RecyclerViewFragment">RecyclerViewFragment</string>
+    <string name="ItemViewFragment">ItemViewFragment</string>
+    <string name="download">Download image</string>
+    <string name="saved_success">Image saved successfully!</string>
+    <string name="published">Published \u0020 </string>
+    <string name="hour">\u0020  hour ago</string>
+    <string name="hours">\u0020  hours ago</string>
+    <string name="mins">\u0020  minutes ago</string>
+    <string name="just_now">Just now</string>
+
+    <string name="dialog_title">Please, stand by… </string>
+    <string name="response_failure">Whoops something went wrong… </string>
+    <string name="num_comments"> \u0020 comments </string>
+</resources>
